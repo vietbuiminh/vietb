@@ -71,7 +71,7 @@ function App() {
               <Card.Body>
                 <Card.Title>Viet Bui</Card.Title>
                 <Card.Subtitle className="mb-2">Newbie with React</Card.Subtitle>
-                <img src="https://lh6.googleusercontent.com/2yhYAJnKvWNr0I-OfxsWmB57mMQWEewjCTLP3FxJm1VJiTN0oOr6I9LMZCETdtd_wtUepgOs8cW92-b6-aBVXh1Kg7hA-yHPIOQmYHVRtf1WtmCfo2BYy7Sh3Ewydzq_lQ=w1280"/>
+                <img src="https://lh6.googleusercontent.com/2yhYAJnKvWNr0I-OfxsWmB57mMQWEewjCTLP3FxJm1VJiTN0oOr6I9LMZCETdtd_wtUepgOs8cW92-b6-aBVXh1Kg7hA-yHPIOQmYHVRtf1WtmCfo2BYy7Sh3Ewydzq_lQ=w1280" alt="Image of myself."/>
                 <Card.Text>
                   Viet Bui is a current college student in the US. He originally from Saigon and very new the life over here.
                 </Card.Text>
