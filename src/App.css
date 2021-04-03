@@ -1,0 +1,23 @@
+.my-nav {
+  margin-bottom: 2em;
+}
+
+.style-art {
+  margin-bottom: 2em;
+  background-color: blue;
+  color: yellow;
+}
+
+.style-art a {
+  background-color: yellow;
+  padding: 0.5em;
+  font-weight: bold;
+  color: blue;
+  transition: all 0.3s ease-in-out;
+  display: inline-block;
+}
+
+.style-art a:hover {
+  color: green;
+  transform: scale(1.05);
+}
